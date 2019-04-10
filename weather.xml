@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<?xml-stylesheet type="text/css" href="weather.css"?> 
+<weather> 
+    <heading> MY Weather Webpage </heading>
+<br></br> 
+    <ba> 
+        <title><br> location-: chennai</br></title> 
+        <temp><br>Temprature-: 37'C</br></temp> 
+        <humidity><br>humidity -: 40%</br></humidity> 
+        <pricipitation><br>pricipitation-:37%</br></pricipitation> 
+        <winddirection ><br>wind direction -: 310 km/hr</br></winddirection> 
+    </ba> 
+<br></br>
+    <ba> 
+        <title> <br>location-: panchgani</br></title> 
+        <temp>Temprature-: 27'C</temp> 
+        <humidity>humidity -: 80%</humidity> 
+        <pricipitation>pricipitation-:58%</pricipitation> 
+        <winddirection >wind direction -: -270 km/hr</winddirection> 
+    </ba> 
+ <ba> 
+        <title> location-: satna</title> 
+        <temp>Temprature-: 39'C</temp> 
+        <humidity>humidity -: 30%</humidity> 
+        <pricipitation>pricipitation-:87%</pricipitation> 
+        <winddirection >wind direction -: 180 km/hr</winddirection> 
+    </ba> 
+        
+</weather> 
