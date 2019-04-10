@@ -1,0 +1,18 @@
+weather { 
+     color: white; 
+     background-color : gray; 
+     width: 100%; 
+} 
+ heading { 
+     color: green; 
+     font-size : 40px; 
+     background-color : powderblue; 
+} 
+ location, temp, humidity, pricipitation,winddirection { 
+     display : block; 
+} 
+ location { 
+     font-size : 25px; 
+     font-weight : bold; 
+} 
+__________
